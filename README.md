@@ -1,4 +1,3 @@
-# Hi there 👋, I'm louis141414
 
 [![Header](https://louis.42web.io/media/github-header-banner.png)](https://louis.42web.io)
 
